@@ -1,6 +1,6 @@
 # responsivedesign
 
-A new Flutter project.
+A new Flutter project, that explores responsive design for both mobile and desktop devices.
 
 ## Getting Started
 
